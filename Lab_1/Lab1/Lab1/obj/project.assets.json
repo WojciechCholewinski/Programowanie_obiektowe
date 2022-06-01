@@ -8,28 +8,20 @@
     "net5.0": []
   },
   "packageFolders": {
-    "D:\\Users\\Wojciech.Cholewinski\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Wojtek\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Wojciech.Cholewinski\\Desktop\\Programowanie_obiektowe\\Lab_1\\Lab1\\Lab1\\Lab1.csproj",
+      "projectUniqueName": "C:\\Users\\Wojtek\\source\\repos\\Programowanie_obiektowe(dirask)\\Lab_1\\Lab1\\Lab1\\Lab1.csproj",
       "projectName": "Lab1",
-      "projectPath": "D:\\Users\\Wojciech.Cholewinski\\Desktop\\Programowanie_obiektowe\\Lab_1\\Lab1\\Lab1\\Lab1.csproj",
-      "packagesPath": "D:\\Users\\Wojciech.Cholewinski\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Wojciech.Cholewinski\\Desktop\\Programowanie_obiektowe\\Lab_1\\Lab1\\Lab1\\obj\\",
+      "projectPath": "C:\\Users\\Wojtek\\source\\repos\\Programowanie_obiektowe(dirask)\\Lab_1\\Lab1\\Lab1\\Lab1.csproj",
+      "packagesPath": "C:\\Users\\Wojtek\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Wojtek\\Source\\Repos\\Programowanie_obiektowe(dirask)\\Lab_1\\Lab1\\Lab1\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "D:\\Users\\Wojciech.Cholewinski\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Wojtek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -68,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
