@@ -23,7 +23,6 @@ namespace Lab_3
                 logger.Log("Example message 3 ...", "value 1", "value 2", "value 3");
             }
 
-            //Console.WriteLine();
             //ConsoleLogger consoleLogger = new ConsoleLogger();
             //Console.WriteLine(consoleLogger);
 
