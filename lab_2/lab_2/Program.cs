@@ -112,7 +112,7 @@ namespace Lab_02___Zadanie____zadanie_do_domu_
         {
             Group = group;
             this.tasks = tasks;
-        }
+        } 
         public void AddTask(string taskName, TaskStatus taskStatus)
         {
             tasks.Add(new Task(taskName, taskStatus));
