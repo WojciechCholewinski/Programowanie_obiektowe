@@ -120,8 +120,10 @@ namespace Lab_02___Zadanie____zadanie_do_domu_
 
         public void UpdateTask(int index, TaskStatus taskStatus)
         {
-            tasks.RemoveAt(index);
-            tasks.Insert(index, new Task(Name, taskStatus));
+            //tasks.RemoveAt(index);
+            //tasks.Insert(index, new Task(Name, taskStatus));      //błąd - wyświetlało się imię i nazwisko
+
+            this.tasks[index].Status = taskStatus;                  //dobrze
         }
 
         public override string ToString()
